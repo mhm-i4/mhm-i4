@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---># 💫 About Me:
-I'm currently working in AI/ML models and DSA <br>I will graduate in 2028<br>I like to work on ML projects <br>
+-->💫 About Me:
+I'm currently working with AI/ML models and DSA <br>I will graduate in 2028<br>I like to work on intuitive projects <br>
 
 
 ## 🌐 Socials:
